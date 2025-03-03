@@ -19,7 +19,7 @@ Our dataset includes:
 Get started in a few steps:
 1️⃣ Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Predicting-Song-Popularity-of-Spotify-Bengali-Tracks.git
+   git clone https://github.com/epiprokash/Predicting-Song-Popularity-of-Spotify-Bengali-Tracks.git
    cd Predicting-Song-Popularity-of-Spotify-Bengali-Tracks
    ```
 2️⃣ Install dependencies:
