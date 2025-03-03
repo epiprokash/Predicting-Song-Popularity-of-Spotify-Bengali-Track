@@ -1,7 +1,8 @@
 # 🎵 Predicting Song Popularity of Spotify Bengali Tracks
 
 ## 📌 Overview
-Welcome to **Predicting Song Popularity of Spotify Bengali Tracks**! 🎶 This project explores the factors influencing the popularity of Bengali songs on Spotify using **Machine Learning** and **Data Analysis**. 🚀
+Welcome to **Predicting Song Popularity of Spotify Bengali Tracks**! 
+🎶 This project explores the factors influencing the popularity of Bengali songs on Spotify using **Machine Learning** and **Data Analysis**. 🚀
 
 ## 📊 Features & Dataset
 Our dataset includes:
